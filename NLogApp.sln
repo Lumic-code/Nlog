@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLogApp", "NLogApp\NLogApp.csproj", "{BB497C35-3FAD-4FA0-8B20-B5BCF6173CC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerService", "LoggerService\LoggerService.csproj", "{5EE7A660-D72D-4D41-9B2A-C01F9ED1CAED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB497C35-3FAD-4FA0-8B20-B5BCF6173CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB497C35-3FAD-4FA0-8B20-B5BCF6173CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB497C35-3FAD-4FA0-8B20-B5BCF6173CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB497C35-3FAD-4FA0-8B20-B5BCF6173CC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EE7A660-D72D-4D41-9B2A-C01F9ED1CAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EE7A660-D72D-4D41-9B2A-C01F9ED1CAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EE7A660-D72D-4D41-9B2A-C01F9ED1CAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EE7A660-D72D-4D41-9B2A-C01F9ED1CAED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F368D3DB-638F-49DC-90C1-E2728AA26CBD}
+	EndGlobalSection
+EndGlobal

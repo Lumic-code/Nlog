@@ -1,0 +1,12 @@
+C:\Users\wisdo\OneDrive\Desktop\NLogApp\LoggerService\bin\Debug\net6.0\LoggerService.deps.json
+C:\Users\wisdo\OneDrive\Desktop\NLogApp\LoggerService\bin\Debug\net6.0\LoggerService.dll
+C:\Users\wisdo\OneDrive\Desktop\NLogApp\LoggerService\bin\Debug\net6.0\LoggerService.pdb
+C:\Users\wisdo\OneDrive\Desktop\NLogApp\LoggerService\obj\Debug\net6.0\LoggerService.csproj.AssemblyReference.cache
+C:\Users\wisdo\OneDrive\Desktop\NLogApp\LoggerService\obj\Debug\net6.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisdo\OneDrive\Desktop\NLogApp\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\wisdo\OneDrive\Desktop\NLogApp\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfo.cs
+C:\Users\wisdo\OneDrive\Desktop\NLogApp\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\wisdo\OneDrive\Desktop\NLogApp\LoggerService\obj\Debug\net6.0\LoggerService.dll
+C:\Users\wisdo\OneDrive\Desktop\NLogApp\LoggerService\obj\Debug\net6.0\refint\LoggerService.dll
+C:\Users\wisdo\OneDrive\Desktop\NLogApp\LoggerService\obj\Debug\net6.0\LoggerService.pdb
+C:\Users\wisdo\OneDrive\Desktop\NLogApp\LoggerService\obj\Debug\net6.0\ref\LoggerService.dll
